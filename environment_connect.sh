@@ -11,4 +11,5 @@ if [[ $env = "dev"  ]];
    echo "you are deploying in prod environment"
  else 
   echo "choose right environment to deploy"
-fi
+file
+
